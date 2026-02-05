@@ -3,7 +3,10 @@ import { test, expect } from "@playwright/test";
 test("has title", async ({ page }) => {
   console.log("Hello world");
 });
-test("has title", async ({ page }) => {
+test("has title 1", async ({ page }) => {
+  console.log("Hello world 1");
+});
+test("has title 2", async ({ page }) => {
   console.log("Hello world 1");
 });
 
