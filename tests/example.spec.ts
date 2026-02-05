@@ -6,6 +6,9 @@ test("has title", async ({ page }) => {
 test("has title 1", async ({ page }) => {
   console.log("Hello world 1");
 });
+test("has title 2", async ({ page }) => {
+  console.log("Hello world 1");
+});
 
 // test('get started link', async ({ page }) => {
 //   await page.goto('https://playwright.dev/');
