@@ -13,4 +13,7 @@ test.describe("Annotations", () => {
   test("Test example 4", async ({ page }) => {
     console.log("Test example 4");
   });
+  test("Test example 5", async ({ page }) => {
+    console.log("Test example 5");
+  });
 });
